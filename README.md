@@ -72,6 +72,54 @@ Key challenges addressed were:
 ## 🖥️ Sample SQL Queries
 
 Here are a few SQL queries used in this project:
+## 📄 SQL Queries
+[![Pizza Sales Analysis SQL Queries](pizza_sql_queries.png)](https://github.com/SOUNDARYA-GS/pizza_sales_analysis_sql/blob/main/pizza_sales_analysis.pdf)
+
+## ✅ Final Recommendations
+
+1. **Staffing & Operations Optimization**  
+   - Increase staffing and kitchen capacity during **Friday/Saturday evenings** and **12 PM / 5–8 PM peak hours**.  
+
+2. **Menu Strategy**  
+   - Promote **Large pizzas** and **Classic/Supreme categories** as anchor items.  
+   - Expand **chicken-based offerings** due to strong revenue contribution.  
+
+3. **Product Line Reevaluation**  
+   - Consider phasing out **low-performing items** (e.g., Brie Carre, XL/XXL sizes).  
+
+4. **Targeted Promotions**  
+   - Introduce **weekday deals** (e.g., Tuesday specials) to boost off-peak sales.  
+   - Launch **October seasonal campaigns** to offset revenue dips.  
+
+---
+
+## 📂 Project Structure
+
+├── data/ # Raw & cleaned datasets
+├── queries/ # SQL queries for KPI & EDA
+├── analysis/ # Excel aggregations & pivot tables
+├── visualizations/ # Charts, graphs, and insights
+└── README.md # Project documentation
+
+yaml
+Copy code
+
+---
+
+## ▶ How to Run This Project
+
+1. Open the dataset in **SQL** and execute the provided queries to extract KPIs.  
+2. Use **Excel** for cleaning, aggregation, and exploratory analysis.   
+3. Apply insights to staffing, marketing, and menu strategy decisions.  
+
+---
+
+## 📌 Author
+**Soundarya G S**  
+Business/Data Analyst  
+📧 Email: [soundaryags948@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/soundarya-g-s/]
+
 
 
 
