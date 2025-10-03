@@ -71,8 +71,6 @@ Key challenges addressed were:
 
 ## 🖥️ Sample SQL Queries
 
-Here are a few SQL queries used in this project:
-## 📄 SQL Queries
 [![Pizza Sales Analysis SQL Queries](pizza_sql_queries.png)](https://github.com/SOUNDARYA-GS/pizza_sales_analysis_sql/blob/main/pizza_sales_analysis.pdf)
 
 ## ✅ Final Recommendations
