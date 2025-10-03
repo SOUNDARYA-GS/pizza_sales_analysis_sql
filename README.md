@@ -89,20 +89,49 @@ Key challenges addressed were:
    - Introduce **weekday deals** (e.g., Tuesday specials) to boost off-peak sales.  
    - Launch **October seasonal campaigns** to offset revenue dips.  
 
+# 🍕 Pizza Sales Analysis Project
+
+This repository contains the files and analysis for a comprehensive look into pizza sales data. The project aims to identify key performance indicators (KPIs), analyze sales trends, and provide an executive summary of the findings.
+
 ---
 
 ## 📂 Project Structure
 
-├── data/ # Raw & cleaned datasets
-├── queries/ # SQL queries for KPI & EDA
-├── analysis/ # Excel aggregations & pivot tables
-├── visualizations/ # Charts, graphs, and insights
-└── README.md # Project documentation
+This project is organized into the following directories:
 
-yaml
-Copy code
+| Directory | Description |
+| :--- | :--- |
+| `data/` | Raw and cleaned datasets. |
+| `queries/` | SQL queries used for KPI and Exploratory Data Analysis (EDA). |
+| `analysis/` | Excel aggregations and pivot tables (or other detailed analysis files). |
+| `README.md` | Project documentation. |
 
 ---
+
+## 📄 Repository Files and Contents
+
+The following files, based on your commit history, are placed within the relevant directories:
+
+### `queries/`
+* **`pizza_sales_analysis_sql.sql`**: Contains the SQL queries used to extract, transform, and calculate KPIs from the raw data.
+
+### `analysis/`
+* **`pizza_sales_requirements.pdf`**: Documentation outlining the initial project scope, key questions, and data requirements for the analysis. *While it's a requirements file, placing it here for easy access to project setup details makes sense.*
+
+### `README.md` (Current file)
+* **`Update README.md`**: Provides an overview, structure, and file descriptions for the project.
+
+### Root Directory
+* **`pizza_sales_executive_summary.pdf`**: A high-level, non-technical summary of the most critical findings, trends, and recommendations for stakeholders. *Placing this in the root or a dedicated `reports/` folder makes it immediately accessible.*
+
+---
+
+## 🚀 Getting Started
+
+1.  Clone the repository.
+2.  Navigate to the **`queries/`** directory to review the SQL used for data manipulation.
+3.  View the **`visualizations/pizza_sales_analysis.pdf`** for the full report.
+4.  For a quick overview of the findings, review **`pizza_sales_executive_summary.pdf`**.
 
 ## ▶ How to Run This Project
 
